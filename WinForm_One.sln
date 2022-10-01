@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Paint", "WinForm_One\Paint.csproj", "{CD22DCE3-5ADA-4C15-B043-8E795DE02925}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RunnerLabel", "RunnerLabel\RunnerLabel.csproj", "{BB246036-9770-49BA-910F-EEDAE4E6F685}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Baku_London", "Baku_London\Baku_London.csproj", "{302BBEC6-1011-43F6-A32B-0FE8B0036EC0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CD22DCE3-5ADA-4C15-B043-8E795DE02925}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD22DCE3-5ADA-4C15-B043-8E795DE02925}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD22DCE3-5ADA-4C15-B043-8E795DE02925}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD22DCE3-5ADA-4C15-B043-8E795DE02925}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB246036-9770-49BA-910F-EEDAE4E6F685}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB246036-9770-49BA-910F-EEDAE4E6F685}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB246036-9770-49BA-910F-EEDAE4E6F685}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB246036-9770-49BA-910F-EEDAE4E6F685}.Release|Any CPU.Build.0 = Release|Any CPU
+		{302BBEC6-1011-43F6-A32B-0FE8B0036EC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{302BBEC6-1011-43F6-A32B-0FE8B0036EC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{302BBEC6-1011-43F6-A32B-0FE8B0036EC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{302BBEC6-1011-43F6-A32B-0FE8B0036EC0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {639BB9E4-CB20-4720-A89B-6F9D53DD15BF}
+	EndGlobalSection
+EndGlobal
